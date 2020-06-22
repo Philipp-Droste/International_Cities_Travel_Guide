@@ -1,0 +1,21 @@
+﻿  City.cpp
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\City.cpp(38,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\City.cpp(48,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\City.cpp(255,6): warning C4101: 'popDens': unreferenced local variable
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\City.cpp(270,9): warning C4101: 'livingIndex': unreferenced local variable
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\City.cpp(240,9): warning C4101: 'y': unreferenced local variable
+  CityDatabase.cpp
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\City.cpp(225,9): warning C4101: 'x': unreferenced local variable
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\HashTable.h(287,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\HashTable.h(275): message : while compiling class template member function 'void HashTable<City *>::rehash(void)'
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\HashTable.h(142): message : see reference to function template instantiation 'void HashTable<City *>::rehash(void)' being compiled
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\HashTable.h(118): message : while compiling class template member function 'HashTable<City *>::HashTable(int)'
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\CityDatabase.cpp(84): message : see reference to function template instantiation 'HashTable<City *>::HashTable(int)' being compiled
+  HitCounter.cpp
+  main.cpp
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\CityDatabase.cpp(52): message : see reference to class template instantiation 'HashTable<City *>' being compiled
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\main.cpp(106,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\main.cpp(117,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phili\source\repos\International_Travel_Guide\International_Travel_Guide\HashNode.h(123): warning C4717: 'operator<<City *>': recursive on all control paths, function will cause runtime stack overflow
+  International_Travel_Guide.vcxproj -> C:\Users\phili\source\repos\International_Travel_Guide\Debug\International_Travel_Guide.exe
